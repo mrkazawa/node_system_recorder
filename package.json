@@ -1,0 +1,14 @@
+{
+  "name": "node_system_recorder",
+  "version": "1.0.0",
+  "description": "Node JS System Recorder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "systeminformation": "^4.21.0"
+  }
+}
